@@ -182,9 +182,10 @@ JWT_SECRET=xxxxxxxxxxxxxxxx
 EMAIL_USER=xxxxxxxx@gmail.com
 EMAIL_PASS=xxxxxxxxxxxxxxxx
 
-TWILIO_ACCOUNT_SID=ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-TWILIO_AUTH_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-TWILIO_PHONE_NUMBER=+1xxxxxxxxxx
+TWILIO_ACCOUNT_SID=<ACCOUNT_SID>
+TWILIO_AUTH_TOKEN=<AUTH_TOKEN>
+TWILIO_PHONE_NUMBER=<PHONE_NUMBER>
+
 ```
 
 Start Backend
