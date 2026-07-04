@@ -1,0 +1,10 @@
+[35mREADME.md[m[36m:[mTWILIO_[1;31mAC[mCOUNT_SID=<[1;31mAC[mCOUNT_SID>
+[35mbackend/package-lock.json[m[36m:[m      "integrity": "sha512-/Nf7TyzTx6S3yRJObOAV7956r8cr2+Oj8[1;31mAC[m5dt8wSP3BQAoeX58NoHyCU8P8zGkNXStjTSi6fzO6F0pBdcYbEg==",
+[35mbackend/package-lock.json[m[36m:[m      "integrity": "sha512-qRcuIdP69NPm4qb[1;31mAC[mK+aDogI5CBDMi1jKe0ry5rSQJz8JVLsC7jV8XpiJjGRLLol3N+R5ihGYcrPLTno6pAdBA==",
+[35mbackend/package-lock.json[m[36m:[m      "integrity": "sha512-DvEy55V3DB7uknRo+4iOGT5fP1slR8wQohVdknigZPMpMstaKJQWhwiYB[1;31mAC[mJE3Ul2pTnATihhBYnRhZQHGBiRw==",
+[35mbackend/package-lock.json[m[36m:[m      "integrity": "sha512-De72GdQZzNTUBBChsXueQUnPKDkg/5A5zp7pFDuQAj5UFoENpi[1;31mAC[mU0wlCvzpAGnTkj++ihpKwKyYewn/XNUbKw==",
+[35mbackend/utils/sendSMS.js[m[36m:[m  process.env.TWILIO_[1;31mAC[mCOUNT_SID,
+[35mfrontend/package-lock.json[m[36m:[m      "integrity": "sha512-3nQVUAtvkKH9zahfWgw96Jc/uFOmj[1;31mAC[mE1kQz82E2lqWmHBgjzbNlsC22nuQTfahmWeQtTq5nQ/4Nnd2A1wj4zA==",
+[35mfrontend/package-lock.json[m[36m:[m      "integrity": "sha512-WUj2qlxaQtO4g6Pq5c29GTcWGDyd8itL8zTlipgECz3JesAiiOKotd8JU6otB3P[1;31mAC[mgG6xkJUyVhboMS+bje/jA==",
+[35mfrontend/package-lock.json[m[36m:[m      "integrity": "sha512-7p3DrVEIopW1B1avAGLuCSh1jubc01H2JHc8B4qqGblmg5gI9yumBg[1;31mAC[mjWo4JlIc04ufug4xJ3SQI8HkS/Rgzw==",
+[35mfrontend/package-lock.json[m[36m:[m      "integrity": "sha512-Js0m9cx+qOgDxo0eMiFGEueWztz+d4+M3rGlmKPT+T4IS/jP4ylw3Nwpu6cpTTP8R1M[1;31mAC[m1kF4VbdLt3ARf209w==",

@@ -3,7 +3,6 @@ const mongoose = require("mongoose");
 const cors = require("cors");
 const helmet = require("helmet");
 const rateLimit = require("express-rate-limit");
-const xss = require("xss-clean");
 require("dotenv").config();
 
 // Routes
@@ -21,8 +20,6 @@ const app = express();
 // Secure HTTP Headers
 app.use(helmet());
 
-// XSS Protection
-app.use(xss());
 
 // Rate Limiting
 const limiter = rateLimit({

@@ -16,7 +16,7 @@ https://week8-part2-06-fullstack-webthism.onrender.com
 
 # 📂 GitHub Repository
 
-https://github.com/PittaShirisha-hub/Week8-part2--06-Fullstack-Webthism
+https://github.com/PittaShirisha-hub/Week9-07-Fullstack-Webthism
 
 ---
 
@@ -158,7 +158,7 @@ service-booking-platform
 ## Clone Repository
 
 ```bash
-git clone https://github.com/PittaShirisha-hub/Week8-part2--06-Fullstack-Webthism.git
+git clone https://github.com/PittaShirisha-hub/Week9-07-Fullstack-Webthism
 ```
 
 ---
