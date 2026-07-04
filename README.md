@@ -7,10 +7,10 @@ A Full Stack MERN application that allows users to browse beauty & wellness serv
 # 🚀 Live Demo
 
 ### Frontend
-https://week8-part2-06-fullstack-webthism.vercel.app
+https://week9-07-fullstack-webthism.vercel.app/
 
 ### Backend API
-https://week8-part2-06-fullstack-webthism.onrender.com
+https://week9-07-fullstack-webthism.onrender.com
 
 ---
 
